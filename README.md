@@ -2,7 +2,7 @@
 
 -🌱My name is Glayton Veríssimo and I am currently a student of Systems **Analysis and Development.**
 
--💞️I'm currently in a **Full Stack Web** bootcamp with over 1,000+ hours of practice and study.
+-💞️I'm currently in a **Full Stack Web** bootcamp with over 1.000+ hours of practice and study.
 
 -📫 **Contact-me on:**
  [LinkedIn](https://www.linkedin.com/in/glaytonverissimo)
